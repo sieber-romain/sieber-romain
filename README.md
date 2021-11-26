@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sieber-romain
-- 👀 I’m interested in automation developpement
+- 👀 I’m interested in automation developpement and raspbery pi
 - 🌱 I’m currently learning on visual studio for visual basic and python
 - 💞️ I’m looking to collaborate on everthing about train
 - 📫 How to reach me : sieber.romain@gmail.com
